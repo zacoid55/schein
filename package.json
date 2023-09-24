@@ -6,6 +6,7 @@
     "cypress-each": "^1.13.3"
   },
   "scripts": {
-    "cypress:run": "npx cypress run"
+    "cypress:run": "npx cypress run",
+    "cypress:open": "npx cypress open"
   }
 }
