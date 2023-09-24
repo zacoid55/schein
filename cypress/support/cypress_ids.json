@@ -1,0 +1,12 @@
+{
+    "textFields": {
+        "username": "user-name",
+        "password": "password"
+    },
+    "buttons": {
+        "login": "login-button"
+    },
+    "labels": {
+        "error": "error"
+    }
+}
