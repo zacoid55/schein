@@ -2,5 +2,15 @@
     "errors": {
         "usernameAndPasswordDontMatch": "Epic sadface: Username and password do not match any user in this service",
         "userLockedOut": "Sorry, this user has been locked out."
+    },
+    "expected": {
+        "chekoutComplete": "Thank you for your order!"
+    },
+    "names": {
+        "firstName": "Zachary",
+        "secondName": "Borrelli"
+    },
+    "postCodes": {
+        "postCode": "DA9 9NS"
     }
 }

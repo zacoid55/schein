@@ -7,4 +7,6 @@ export default defineConfig({
     specPattern: './cypress/**/*.spec.(ts|js)',
     supportFile: './cypress/support/e2e.ts'
   },
+  viewportHeight: 1080,
+  viewportWidth: 1920
 })
